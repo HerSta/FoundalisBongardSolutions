@@ -3,4 +3,7 @@
 
 
 #ignore all autosaves
-#*
+\#*
+
+#ignore the org file
+*.org
