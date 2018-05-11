@@ -1,0 +1,6 @@
+#ignore all backups
+*~
+
+
+#ignore all autosaves
+#*
